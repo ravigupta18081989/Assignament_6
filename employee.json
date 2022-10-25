@@ -1,0 +1,44 @@
+{
+    "employee_details":[
+        
+        {
+            "name" : "rohit",
+            "dob" : "o1 jan 1988",
+            "hight" : "5.6",
+            "city" : "lucknow",
+            "state" : "uttar pradesh"
+        },
+        
+        {
+            "name" : "suraj",
+            "dob" : "o1 jan 1987",
+            "hight" : "5.4",
+            "city" : "nagpur",
+            "state" : "maharashtra"
+        },
+        
+        {
+            "name" : "ankit",
+            "dob" : "o1 jan 1989",
+            "hight" : "5.5",
+            "city" : "new delhi",
+            "state" : "new delhi"
+        },
+        
+        {
+            "name" : "rakesh",
+            "dob" : "o1 jan 1985",
+            "hight" : "5.8",
+            "city" : "ludhiyana",
+            "state" : "panjab"
+        },
+        
+        {
+            "name" : "ranjeet",
+            "dob" : "o1 jan 1982",
+            "hight" : "6.0",
+            "city" : "kolkata",
+            "state" : "west bangal"
+        }
+    ]
+}
